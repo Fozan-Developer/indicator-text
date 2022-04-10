@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://fozan.gitbook.io/fozan-inc/)
 
-Library for displaying process-bar in text format.
+Library for displaying progress-bar in text format.
 
 > All products of ФОЗАН inc. on the site: [click here](https://fozan.gitbook.io/fozan-inc/)
 
